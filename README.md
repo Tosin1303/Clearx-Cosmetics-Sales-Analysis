@@ -59,7 +59,7 @@ The dataset includes:
 7. **Replicate Branch B’s strategy** across other branches
 
 ## 📎 File
-- `(https://github.com/Tosin1303/Clearx-Cosmetics-Sales-Analysis/blob/main/Clearx%20Sales%20Data.xlsb)`: Contains all data cleaning, KPIs, pivot tables, and visualisations
+- `[Clearx Sales Data.xlsb](https://github.com/Tosin1303/Clearx-Cosmetics-Sales-Analysis/blob/main/Clearx%20Sales%20Data.xlsb)`: Contains all data cleaning, KPIs, pivot tables, and visualisations
 
 ## 📬 Contact
 For any questions, reach out via [tmayowa.tmd@gmail.com or [LinkedIn](http://www.linkedin.com/in/tosin-mayowa-david)]
